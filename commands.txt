@@ -1,0 +1,7 @@
+Git Basic Commands
+git init
+git add .
+git commt -m "This is first practical of Dev-ops"
+git push
+git pull
+git status
